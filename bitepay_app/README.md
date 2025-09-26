@@ -1,16 +1,38 @@
-# bitepay
 
-A new Flutter project.
 
-## Getting Started
+## ✨ Overview  
+**BitePay** is your one-stop solution to order food, manage wallet balance, and explore campus vendors.  
+Forget long queues – just **Tap, Pay, and Enjoy your Meal!** 🍕🥤  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🔥 Features  
+✅ Secure **OTP/Email Authentication**  
+✅ **Digital Wallet** – Add money, check balance & transactions  
+✅ **Browse Vendors** – By location, popularity & food type  
+✅ **Smart Menu** – Real-time items, discounts & availability  
+✅ **Instant Ordering** – Cashless, quick, and hassle-free  
+✅ **Admin & Vendor Panel** – Manage menus, discounts & sales  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack  
+- **Frontend:** Flutter 💙  
+- **Backend:** Node.js + Express.js 🌐  
+- **Database:** MongoDB 🍃  
+- **Authentication:** JWT + OTP 🔑  
+
+---
+
+## 🚀 Installation  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/bitepay.git
+
+# Go inside the folder
+cd bitepay
+
+# Install dependencies (for backend / frontend separately)
+npm install
+flutter pub get
