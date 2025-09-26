@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390358627361",
+    "project_id": "bitepay-295f1",
+    "storage_bucket": "bitepay-295f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390358627361:android:0d7c472c91400d51cf9f60",
+        "android_client_info": {
+          "package_name": "com.example.bitepay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYwKIxX_9ke4YN_nkfs-PtMqvOyQ4x8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
